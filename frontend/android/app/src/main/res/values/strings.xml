@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ambulance Tracker</string>
+    <string name="location_permission_denied">Location permission is required for GPS tracking</string>
+    <string name="gps_disabled">Please enable GPS for accurate location tracking</string>
+</resources>
